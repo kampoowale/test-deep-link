@@ -5,8 +5,30 @@
       "namespace": "android_app",
       "package_name": "com.deeplink.deep_link",
       "sha256_cert_fingerprints": [
-        "YOUR_SHA256_FINGERPRINT"
+        "your:sha256:fingerprint:here"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.deeplink.deep_link",
+      "sha256_cert_fingerprints": [
+        "your:sha256:fingerprint:here"
+      ]
+    },
+    "url": "https://raw.githubusercontent.com/kampoowale/test-deep-link/refs/heads/main/"
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.deeplink.deep_link",
+      "sha256_cert_fingerprints": [
+        "your:sha256:fingerprint:here"
+      ]
+    },
+    "url": "https://raw.githubusercontent.com/kampoowale/test-deep-link/refs/heads/main/page"
   }
 ]
