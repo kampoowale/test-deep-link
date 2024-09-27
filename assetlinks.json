@@ -5,7 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.deeplink.deep_link",
       "sha256_cert_fingerprints": [
-        "your:sha256:fingerprint:here"
+        "1A:DB:C7:FB:5D:88:E1:67:8D:F9:ED:A8:E0:A5:E4:9E:53:80:32:27:B5:AA:74:B7:3A:CE:73:B0:46:65:63:E8"
       ]
     }
   },
@@ -15,7 +15,7 @@
       "namespace": "android_app",
       "package_name": "com.deeplink.deep_link",
       "sha256_cert_fingerprints": [
-        "your:sha256:fingerprint:here"
+        "1A:DB:C7:FB:5D:88:E1:67:8D:F9:ED:A8:E0:A5:E4:9E:53:80:32:27:B5:AA:74:B7:3A:CE:73:B0:46:65:63:E8"
       ]
     },
     "url": "https://raw.githubusercontent.com/kampoowale/test-deep-link/refs/heads/main/"
@@ -26,7 +26,7 @@
       "namespace": "android_app",
       "package_name": "com.deeplink.deep_link",
       "sha256_cert_fingerprints": [
-        "your:sha256:fingerprint:here"
+        "1A:DB:C7:FB:5D:88:E1:67:8D:F9:ED:A8:E0:A5:E4:9E:53:80:32:27:B5:AA:74:B7:3A:CE:73:B0:46:65:63:E8e"
       ]
     },
     "url": "https://raw.githubusercontent.com/kampoowale/test-deep-link/refs/heads/main/page"
